@@ -1,2 +1,7 @@
-# Reset-option-pricing
-Pricing reset options using the CRR model
+# 重設選擇權定價
+使用二元樹(CRR model)對重設選擇權定價
+## 選擇權種類
+1.  **歐式買權**
+2.  **歐式賣權**
+3.  **美式買權**
+4.  **美式賣權**
